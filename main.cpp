@@ -8,8 +8,10 @@ using namespace std;
 
 int main() {
     fastio;
-    cout << "hello spring camp ";
+    cout << "hello spring camp and Yatin";
     cout << "This change is made by SHUBH";
-    
+    for(int i = 0; i < 100; i++){
+        cout << "Love to PClub" << endl;
+    }
     return 0;
 }
